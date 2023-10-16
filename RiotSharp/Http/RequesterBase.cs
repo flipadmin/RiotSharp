@@ -180,6 +180,16 @@ namespace RiotSharp.Http
                     return "asia";
                 case Region.Sea:
                     return "sea";
+                case Region.Ph:
+                    return "ph2";
+                case Region.Sg:
+                    return "sg2";
+                case Region.Th:
+                    return "th2";
+                case Region.Tw:
+                    return "tw2";
+                case Region.Vn:
+                    return "vn2";
                 default:
                     throw new NotImplementedException();
             }

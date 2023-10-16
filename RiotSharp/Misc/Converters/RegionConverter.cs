@@ -56,6 +56,16 @@ namespace RiotSharp.Misc.Converters
                     return Region.Latam;
                 case "sea":
                     return Region.Sea;
+                case "ph":
+                    return Region.Ph;
+                case "tw":
+                    return Region.Tw;
+                case "th":
+                    return Region.Th;
+                case "vn":
+                    return Region.Vn;
+                case "sg":
+                    return Region.Sg;
                 default:
                     return null;
             }

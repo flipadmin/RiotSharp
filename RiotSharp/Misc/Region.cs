@@ -107,6 +107,31 @@ namespace RiotSharp.Misc
         /// <summary>
         /// Southeast Asia.
         /// </summary>
-        Sea
+        Sea,
+
+        /// <summary>
+        /// The Philippines
+        /// </summary>
+        Ph,
+
+        /// <summary>
+        /// Singapore, Malaysia, & Indonesia
+        /// </summary>
+        Sg,
+
+        /// <summary>
+        /// Thailand
+        /// </summary>
+        Th,
+
+        /// <summary>
+        /// Taiwan, Hong Kong, and Macao
+        /// </summary>
+        Tw,
+
+        /// <summary>
+        /// Vietnam
+        /// </summary>
+        Vn,
     }
 }
