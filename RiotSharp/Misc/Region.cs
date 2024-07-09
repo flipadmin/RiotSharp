@@ -133,5 +133,10 @@ namespace RiotSharp.Misc
         /// Vietnam
         /// </summary>
         Vn,
+
+        /// <summary>
+        /// Middle east
+        /// </summary>
+        Me,
     }
 }

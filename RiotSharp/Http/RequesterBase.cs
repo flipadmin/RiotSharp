@@ -190,6 +190,8 @@ namespace RiotSharp.Http
                     return "tw2";
                 case Region.Vn:
                     return "vn2";
+                case Region.Me:
+                    return "me1";
                 default:
                     throw new NotImplementedException();
             }

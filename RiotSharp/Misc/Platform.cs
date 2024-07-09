@@ -90,6 +90,11 @@ namespace RiotSharp.Misc
         VN2,
 
         /// <summary>
+        /// Middle east
+        /// </summary>
+        ME1,
+
+        /// <summary>
         /// No Platform (e.g. platformId of bot players).
         /// </summary>
         NoPlatform

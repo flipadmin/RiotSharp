@@ -1,1 +1,1 @@
-dotnet pack .\RiotSharp.csproj -c Release -p:PackageID=EEG-RiotSharp
+dotnet pack RiotSharp\RiotSharp.csproj -c Release -p:PackageID=EEG-RiotSharp

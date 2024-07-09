@@ -100,6 +100,8 @@ namespace RiotSharp.Misc.Converters
                     return Region.Th;
                 case Platform.TW2:
                     return Region.Tw;
+                case Platform.ME1:
+                    return Region.Me;
                 case Platform.NoPlatform:
                     return Region.NoRegion;
                 default:

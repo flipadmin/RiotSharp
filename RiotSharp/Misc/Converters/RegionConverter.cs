@@ -66,6 +66,8 @@ namespace RiotSharp.Misc.Converters
                     return Region.Vn;
                 case "sg":
                     return Region.Sg;
+                case "me":
+                    return Region.Me;
                 default:
                     return null;
             }
