@@ -374,10 +374,10 @@ namespace RiotSharp.Endpoints.MatchEndpoint
         public long QuadraKills { get; set; }
 
         /// <summary>
-        /// Riot id name.
+        /// Riot id game name.
         /// </summary>
-        [JsonProperty("riotIdName")]
-        public string RiotIdName { get; set; }
+        [JsonProperty("riotIdGameName")]
+        public string RiotIdGameName { get; set; }
 
         /// <summary>
         /// Riot id tagline.
